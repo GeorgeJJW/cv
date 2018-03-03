@@ -10,15 +10,14 @@ High functioning sugar addict, wanna-be data scientist.
 ### Education and MOOCs
 
 **Data Analyst Nanodegree / Udacity / May 2018 (expected)**
-* Statistics project: Analyzing the Stroop Effect
-* Exploratory data analysis project: White Wine Quality Exploration
+* Statistics project: [Analyzing the Stroop Effect](https://georgejjw.github.io/cv/Test%20a%20Perceptual%20Phenomenon)
+* Exploratory data analysis project: [White Wine Quality Exploration](https://georgejjw.github.io/cv/white)
 
 **Intro to Programming Nanodegree / Udacity / June 2017**
-* Data analysis specialization
-* Final project: Investigate a Dataset: Survival on the Titanic
+* Data analyst path project: [Survival on the Titanic](https://georgejjw.github.io/cv/titanic_html)
 
 **HarvardX - CS50:Introduction to Computer Science / Harvard University / May 2017**
-* Final project: Binge50
+* Final project presentation: [Binge50](https://www.youtube.com/watch?v=uJ9HbAxvIcY)
 
 **Bahelor of Arts Honours Psychology / The University of Winnipeg / 2009 - 2013**
 * Honours thesis: Age-progressed Doppelgangers and Temporal Discounting: An Experimental Study within the Future Self-continuity Framework
