@@ -29,7 +29,7 @@ High functioning sugar addict, wanna-be data scientist.
 **Line Supervisor / Stella's Cafe & Bakery / 2016 - Present**
 * Coordinating with other team members to ensure that food is prepared quickly and to standards during dinner service.
 
-** Line Cook / Earls Kitchen + Bar / 2013 - 2016 **
+**Line Cook / Earls Kitchen + Bar / 2013 - 2016**
 * Progressed from dishwasher to prep cook, then to various stations in the kitchen.
 * May also be called upon to receive inventory, perform stock rotation, prepare bulk items for service, maintain kitchen equipment, and train new staff.
 
