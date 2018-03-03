@@ -1,10 +1,14 @@
 # George J. J. Wu
+
 +1 (204) 292 6091  
 wu-j4979@webmail.uwinnipeg.ca
 
 High functioning sugar addict, wanna-be data scientist.
-___
+
+***
+
 ### Education and MOOCs
+
 Data Analyst Nanodegree / Udacity / May 2018 (expected)
 
 Intro to Programming Nanodegree / Udacity / June 2017
@@ -12,8 +16,11 @@ Intro to Programming Nanodegree / Udacity / June 2017
 HarvardX - CS50:Introduction to Computer Science / Harvard University / May 2017
 
 Bahelor of Arts, Psychology (Honours) / The University of Winnipeg / 2009 - 2013
-___
+
+***
+
 ### Experience
+
 Kitchen Supervisor / Stella's Cafe & Bakery / 2016 - Present
 
 Line Cook / Earls Kitchen + Bar / 2013 - 2016
@@ -31,4 +38,5 @@ Box Office / Guest Services / Cineplex Entertainment / 2011 - 2013
 
 Crisis Counselor / Klinic Community Health / 2010 - 2012
 * Provided counseling services concerning sexuality, suicide, child welfare, effects of trauma, sexual assault, intimate partner violence, and grief.
-___
+
+***
