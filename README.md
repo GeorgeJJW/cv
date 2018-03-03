@@ -16,7 +16,7 @@ High functioning sugar addict, wanna-be data scientist.
 **Intro to Programming Nanodegree / Udacity / June 2017**
 * Data analyst path project: [Survival on the Titanic](https://georgejjw.github.io/cv/titanic_html)
 
-**HarvardX - CS50:Introduction to Computer Science / Harvard University / May 2017**
+**HarvardX - CS50: Introduction to Computer Science / Harvard University / May 2017**
 * Final project presentation: [Binge50](https://www.youtube.com/watch?v=uJ9HbAxvIcY)
 
 **Bahelor of Arts Honours Psychology / The University of Winnipeg / 2009 - 2013**
