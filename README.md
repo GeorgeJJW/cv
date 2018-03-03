@@ -5,7 +5,7 @@ wu-j4979@webmail.uwinnipeg.ca
 
 High functioning sugar addict, wanna-be data scientist.
 
-***
+---
 
 ### Education and MOOCs
 
@@ -17,7 +17,7 @@ HarvardX - CS50:Introduction to Computer Science / Harvard University / May 2017
 
 Bahelor of Arts, Psychology (Honours) / The University of Winnipeg / 2009 - 2013
 
-***
+---
 
 ### Experience
 
@@ -39,4 +39,4 @@ Box Office / Guest Services / Cineplex Entertainment / 2011 - 2013
 Crisis Counselor / Klinic Community Health / 2010 - 2012
 * Provided counseling services concerning sexuality, suicide, child welfare, effects of trauma, sexual assault, intimate partner violence, and grief.
 
-***
+---
