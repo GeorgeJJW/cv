@@ -1,7 +1,8 @@
 # George J. J. Wu
 
-:iphone: +1 204 292 6091  
-:email: wu-j4979@webmail.uwinnipeg.ca
+Tel: +1 204 292 6091  
+Email: wu-j4979@webmail.uwinnipeg.ca  
+Github: GeorgeJJW
 
 Aspiring data novice who is interested in creating accessible data products, that promote a data-driven culture by which individuals are empowered to make informed decisions.
 
@@ -21,7 +22,7 @@ _matplotlib, seaborn, ggplot2_
 **Environments**  
 _Anaconda, Jupyter Notebook, RStudio, SPSS_
 
-___
+---
 
 ### Selected MOOCs
 
@@ -37,11 +38,15 @@ _June 2017_
 Harvard University  
 _May 2017_
 
+---
+
 ### Education
 
 **B.A. Honours Psychology**  
 The University of Winnipeg  
 _2009 - 2013_
+
+---
  
 ### Selected Projects 
 
