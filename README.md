@@ -1,6 +1,6 @@
 # George J. J. Wu
 
-:phone: +1 204 292 6091  
+:iphone: +12042926091  
 :email: wu-j4979@webmail.uwinnipeg.ca
 
 Aspiring data novice who is interested in creating accessible data products, that promote a data-driven culture by which individuals are empowered to make informed decisions.
