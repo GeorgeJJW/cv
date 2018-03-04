@@ -1,26 +1,48 @@
 # George J. J. Wu
 
-Cell: +1 (204) 292 6091  
-Email: wu-j4979@webmail.uwinnipeg.ca
+:phone: +1 204 292 6091  
+:email: wu-j4979@webmail.uwinnipeg.ca
 
-High functioning sugar addict, wanna-be data scientist.
+Aspiring data novice who is interested in creating accessible data products, that promote a data-driven culture by which individuals are empowered to make informed decisions.
 
 ---
 
-### Education and MOOCs
+### Education
 
-**Data Analyst Nanodegree / Udacity / May 2018 (expected)**
-* Statistics project: [Analyzing the Stroop Effect](https://georgejjw.github.io/cv/Test%20a%20Perceptual%20Phenomenon)
-* Exploratory data analysis project: [White Wine Quality Exploration](https://georgejjw.github.io/cv/white)
+**B.A. Honours Psychology**  
+The University of Winnipeg  
+_2009 - 2013_
 
-**Intro to Programming Nanodegree / Udacity / June 2017**
-* Data analyst path project: [Survival on the Titanic](https://georgejjw.github.io/cv/titanic_html)
+### MOOCs
 
-**HarvardX - CS50: Introduction to Computer Science / Harvard University / May 2017**
-* Final project presentation: [Binge50](https://www.youtube.com/watch?v=uJ9HbAxvIcY)
+**Data Analyst Nanodegree**  
+Udacity  
+_May 2018 (expected)_
 
-**Bahelor of Arts Honours Psychology / The University of Winnipeg / 2009 - 2013**
-* Honours thesis: Age-progressed Doppelgangers and Temporal Discounting: An Experimental Study within the Future Self-continuity Framework
+**Intro to Programming Nanodegree**  
+Udacity  
+_June 2017_
+
+**HarvardX - CS50: Introduction to Computer Science**  
+ Harvard University  
+ _May 2017_
+ 
+### Selected Projects 
+
+**Exploratory Data Analysis: White Wine Quality**  
+_https://georgejjw.github.io/cv/wine_
+
+**Testing a Perceptual Phenomenon: Analyzing the Stroop Effect**  
+_https://georgejjw.github.io/cv/stroop_
+
+**Investigate a Dataset: Survival on the Titanic**  
+_https://georgejjw.github.io/cv/titanic_
+
+**Binge50: Finding the Next TV Show to Binge Watch**  
+_https://www.youtube.com/watch?v=uJ9HbAxvIcY_
+
+**Age-progressed Doppelgangers and Temporal Discounting: An Experimental Study within the Future Self-continuity Framework**  
+_https://georgejjw.github.io/cv/thesis_
 
 ---
 
