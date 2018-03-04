@@ -2,7 +2,7 @@
 
 Tel: +1 204 292 6091  
 Email: wu-j4979@webmail.uwinnipeg.ca  
-Github: GeorgeJJW
+Github: [GeorgeJJW](https://github.com/GeorgeJJW/)
 
 Aspiring data novice who is interested in creating accessible data products, that promote a data-driven culture by which individuals are empowered to make informed decisions.
 
