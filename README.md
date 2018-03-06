@@ -4,7 +4,7 @@ Tel: +1 204 292 6091
 Email: wu-j4979@webmail.uwinnipeg.ca  
 Github: [GeorgeJJW](https://github.com/GeorgeJJW/)
 
-Aspiring data novice who is interested in creating accessible data products, that promote a data-driven culture by which individuals are empowered to make informed decisions.
+Aspiring data novice who is interested in creating accessible data products that promote a data-driven culture, by which individuals are empowered to make informed decisions.
 
 ---
 
@@ -60,7 +60,7 @@ _https://georgejjw.github.io/cv/stroop_
 _https://georgejjw.github.io/cv/titanic_
 
 **Binge50: Finding the Next TV Show to Binge Watch**  
-_https://www.youtube.com/watch?v=uJ9HbAxvIcY_
+_https://github.com/GeorgeJJW/harvard-cs50/tree/master/binge50_
 
 **Age-progressed Doppelgangers and Temporal Discounting: An Experimental Study within the Future Self-continuity Framework**  
 _https://georgejjw.github.io/cv/thesis_
