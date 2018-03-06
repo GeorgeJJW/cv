@@ -53,17 +53,27 @@ _2009 - 2013_
 **Exploratory Data Analysis: White Wine Quality**  
 _https://georgejjw.github.io/cv/wine_
 
+* Libraries: dplyr, ggplot2, GGally
+
 **Testing a Perceptual Phenomenon: Analyzing the Stroop Effect**  
 _https://georgejjw.github.io/cv/stroop_
+
+* Libraries: pandas, matplotlib, seaborn
 
 **Investigate a Dataset: Survival on the Titanic**  
 _https://georgejjw.github.io/cv/titanic_
 
+* Libraries: numpy, pandas, matplotlib, seaborn
+
 **Binge50: Finding the Next TV Show to Binge Watch**  
 _https://github.com/GeorgeJJW/harvard-cs50/tree/master/binge50_
 
+* Libraries: Flask, Beautiful Soup, Requests, peewee
+
 **Age-progressed Doppelgangers and Temporal Discounting: An Experimental Study within the Future Self-continuity Framework**  
 _https://georgejjw.github.io/cv/thesis_
+
+* Data analysis and visualization performed using IBM SPSS Statistics package.
 
 ---
 
