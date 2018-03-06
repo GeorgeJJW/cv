@@ -55,11 +55,6 @@ _https://georgejjw.github.io/cv/wine_
 
 * Libraries: dplyr, ggplot2, GGally
 
-**Testing a Perceptual Phenomenon: Analyzing the Stroop Effect**  
-_https://georgejjw.github.io/cv/stroop_
-
-* Libraries: pandas, matplotlib, seaborn
-
 **Investigate a Dataset: Survival on the Titanic**  
 _https://georgejjw.github.io/cv/titanic_
 
@@ -73,6 +68,7 @@ _https://github.com/GeorgeJJW/harvard-cs50/tree/master/binge50_
 **Age-progressed Doppelgangers and Temporal Discounting: An Experimental Study within the Future Self-continuity Framework**  
 _https://georgejjw.github.io/cv/thesis_
 
+* A thesis submitted in partial fulfillment of the requirements for the B.A. (Honours) degree in Psychology at the University of Winnipeg.
 * Data analysis and visualization performed using IBM SPSS Statistics package.
 
 ---
