@@ -51,22 +51,22 @@ _2009 - 2013_
 ### Selected Projects 
 
 **Exploratory Data Analysis: White Wine Quality**  
-_https://georgejjw.github.io/cv/wine_
+_<https://georgejjw.github.io/cv/wine>_
 
 * Libraries: dplyr, ggplot2, GGally
 
 **Investigate a Dataset: Survival on the Titanic**  
-_https://georgejjw.github.io/cv/titanic_
+_<https://georgejjw.github.io/cv/titanic>_
 
 * Libraries: numpy, pandas, matplotlib, seaborn
 
 **Binge50: Finding the Next TV Show to Binge Watch**  
-_https://github.com/GeorgeJJW/harvard-cs50/tree/master/binge50_
+_<https://github.com/GeorgeJJW/harvard-cs50/tree/master/binge50>_
 
 * Libraries: Flask, Beautiful Soup, Requests, peewee
 
 **Age-progressed Doppelgangers and Temporal Discounting: An Experimental Study within the Future Self-continuity Framework**  
-_https://georgejjw.github.io/cv/thesis.pdf_
+_<https://georgejjw.github.io/cv/thesis.pdf>_
 
 * A thesis submitted in partial fulfillment of the requirements for the B.A. (Honours) degree in Psychology at the University of Winnipeg.
 * Data analysis and visualization performed using IBM SPSS Statistics package.
