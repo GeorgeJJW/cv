@@ -53,16 +53,22 @@ _2009 - 2013_
 **Exploratory Data Analysis: White Wine Quality**  
 _<https://georgejjw.github.io/cv/wine>_
 
+* Performed exploratory data analysis using R on a dataset containing physicochemical properties and quality ratings for 4,898 white wines.
+* Completed as part of the Data Analyst Nanodegree on Udacity.
 * Libraries: dplyr, ggplot2, GGally
 
 **Investigate a Dataset: Survival on the Titanic**  
 _<https://georgejjw.github.io/cv/titanic>_
 
+* Performed data wrangling, analysis, and visualization using Python on a dataset containing demographics and travel information from 891 of the 2,224 passengers and crew on board the Titanic.
+* Completed as part of the Intro to Programming Nanodegree on Udacity.
 * Libraries: numpy, pandas, matplotlib, seaborn
 
 **Binge50: Finding the Next TV Show to Binge Watch**  
 _<https://github.com/GeorgeJJW/harvard-cs50/tree/master/binge50>_
 
+* Gathered and aggregated TV show ratings using Python into a SQL database, then presented the information on a frontend made with HTML, CSS, and Javascript.
+* Completed as the final project for the CS50 program on HarvardX.
 * Libraries: Flask, Beautiful Soup, Requests, peewee
 
 **Age-progressed Doppelgangers and Temporal Discounting: An Experimental Study within the Future Self-continuity Framework**  
