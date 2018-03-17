@@ -30,11 +30,11 @@ Udacity
 _May 2018 (expected)_
 
 **Intro to Programming Nanodegree**  
-[Udacity]<https://confirm.udacity.com/VJGDJCYG>  
+[Udacity](https://confirm.udacity.com/VJGDJCYG)  
 _June 2017_
 
 **HarvardX - CS50: Introduction to Computer Science**  
-[Harvard University]<https://courses.edx.org/certificates/e28baf03ed1f4a3f8f1a562da52b8804>  
+[Harvard University](https://courses.edx.org/certificates/e28baf03ed1f4a3f8f1a562da52b8804)  
 _May 2017_
 
 ---
