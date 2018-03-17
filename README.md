@@ -10,7 +10,7 @@ Aspiring data novice who is interested in creating accessible data products that
 ### Proficiencies
 
 **Languages**  
-_Python, R, Javascript, C, Java, SQL_
+_Python, R, JavaScript, C, Java, SQL_
 
 **Data Wrangling**  
 _numpy, pandas, tidyr, dplyr_
@@ -66,7 +66,7 @@ _<https://georgejjw.github.io/cv/titanic>_
 **Binge50: Finding the Next TV Show to Binge Watch**  
 _<https://github.com/GeorgeJJW/harvard-cs50/tree/master/binge50>_
 
-* Gathered and aggregated TV show ratings using Python into a SQL database, then presented the information on a frontend made with HTML, CSS, and Javascript.
+* Gathered and aggregated TV show ratings using Python into a SQL database, then presented the information on a frontend made with HTML, CSS, and JavaScript.
 * Completed as the final project for the CS50 program on HarvardX.
 * Libraries: Flask, Beautiful Soup, Requests, peewee
 
