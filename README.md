@@ -1,8 +1,7 @@
 # George J. J. Wu
 
 Tel: +1 204 292 6091  
-Email: wu-j4979@webmail.uwinnipeg.ca  
-Github: [GeorgeJJW](https://github.com/GeorgeJJW/)
+Email: georgewujia@gmail.com  
 
 Aspiring data novice who is interested in creating accessible data products that promote a data-driven culture, by which individuals are empowered to make informed decisions.
 
@@ -31,11 +30,11 @@ Udacity
 _May 2018 (expected)_
 
 **Intro to Programming Nanodegree**  
-Udacity  
+[Udacity]<https://confirm.udacity.com/VJGDJCYG>  
 _June 2017_
 
 **HarvardX - CS50: Introduction to Computer Science**  
-Harvard University  
+[Harvard University]<https://courses.edx.org/certificates/e28baf03ed1f4a3f8f1a562da52b8804>  
 _May 2017_
 
 ---
@@ -81,12 +80,12 @@ _<https://georgejjw.github.io/cv/thesis.pdf>_
 
 ### Work Experience
 
-**Line Supervisor** at **Stella's Cafe & Bakery**  
-_2016 - Present_  
+**Kitchen Supervisor** at **Stella's Cafe & Bakery**  
+_2016 - Present_
 
-* Coordinates with the kitchen manager and other staff members to ensure that food items are prepared quickly and to specifications during service. 
-* Enforces restaurant's adherence to health codes by closely monitoring food storage conditions and food holding temperatures.
 * Assists the kitchen manager with the control of ticket time, labour, food inventory, and food waste.
+* Coordinates staff members to ensure that food items are prepared quickly and to specifications during service. 
+* Enforces restaurant's adherence to health codes by closely monitoring food storage conditions and food holding temperatures.
 * May also be called upon to receive inventory, perform stock rotation, prepare bulk items for service, maintain kitchen equipment, and train new staff.
 
 **Expeditor | Line Cook** at **Earls Kitchen + Bar**  
