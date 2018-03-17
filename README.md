@@ -83,7 +83,7 @@ _<https://georgejjw.github.io/cv/thesis.pdf>_
 **Kitchen Supervisor** at **Stella's Cafe & Bakery**  
 _2016 - Present_
 
-* Assists the kitchen manager with the control of ticket time, labour, food inventory, and food waste.
+* Assists kitchen manager with the control of ticket time, labour, food inventory, and food waste.
 * Coordinates staff members to ensure that food items are prepared quickly and to specifications during service. 
 * Enforces restaurant's adherence to health codes by closely monitoring food storage conditions and food holding temperatures.
 * May also be called upon to receive inventory, perform stock rotation, prepare bulk items for service, maintain kitchen equipment, and train new staff.
