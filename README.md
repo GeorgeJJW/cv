@@ -26,8 +26,8 @@ _Anaconda, Jupyter Notebook, RStudio, SPSS_
 ### Selected MOOCs
 
 **Data Analyst Nanodegree**  
-Udacity  
-_May 2018 (expected)_
+[Udacity](https://confirm.udacity.com/NKLPRYKM)  
+_April 2018_
 
 **Intro to Programming Nanodegree**  
 [Udacity](https://confirm.udacity.com/VJGDJCYG)  
