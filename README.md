@@ -16,7 +16,7 @@ _Python, R, SQL_
 _Data extraction, munging, wrangling, cleaning_
 
 **Modelling | Machine Learning**  
-_Feature engineering, regression, classification, clustering, feature selection, model optimization, model evaluation_
+_Feature engineering, regression, classification, clustering, dimension reduction, feature selection, model optimization, model evaluation_
 
 **Tools**  
 _Git, Docker, AWS, Tableau_
