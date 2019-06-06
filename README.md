@@ -13,13 +13,13 @@ UBC Master of Data Science graduate who specializes in translating business need
 _Python, R, SQL_
 
 **Data Preparation**  
-_numpy, pandas, tidyr, dplyr_
+_Data extraction, munging, wrangling, cleaning_
 
-**Data Science**  
-_numpy, pandas, tidyr, dplyr_
+**Modelling | Machine Learning**  
+_Feature engineering, regression, classification, clustering, feature selection, model optimization, model evaluation_
 
 **Tools**  
-_git, docker, AWS_
+_Git, Docker, AWS, Tableau_
 
 ---
 
