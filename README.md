@@ -38,12 +38,20 @@ _2009 - 2013_
  
 ### Selected Projects 
 
-**Exploratory Data Analysis: White Wine Quality**  
-_<https://georgejjw.github.io/cv/wine>_
+**picfixR: Enhancing Images Right in the IDE**  
+_<https://github.com/UBC-MDS/picfixR>_
 
-* Performed exploratory data analysis using R on a dataset containing physicochemical properties and quality ratings for 4,898 white wines.
-* Completed as part of the Data Analyst Nanodegree on Udacity.
-* Libraries: dplyr, ggplot2, GGally
+* Developed an R package that allows users to quickly adjust the sharpness, contrast, or vibrance of images in an integrated development environment (e.g. Jupyter notebook or RStudio), without the need for users to power up an image editing software.
+* Completed as a collaborative software development project for the Master of Data Science (MDS) program at the University of British Columbia (UBC).
+* Libraries: devtools, testthat, roxygen2
+* The Python equivalent for this project is also available as [picfixPy](https://github.com/UBC-MDS/picfixPy).
+
+**Competitiveness and Seating Preference: An Observational Study**   
+<https://github.com/UBC-MDS/seating_pref>
+
+* Performed a small-scale survey study leveraging a reproducible and agile workflow, dynamically generated an APA style report from R Markdown.
+* Completed as a collaborative science project for the MDS program at UBC.
+* Libraries: tidyverse, citr, papaja
 
 **Binge50: Finding the Next TV Show to Binge Watch**  
 _<https://github.com/GeorgeJJW/harvard-cs50/tree/master/binge50>_
@@ -65,7 +73,9 @@ _<https://georgejjw.github.io/cv/thesis.pdf>_
 **Data Scientist (Captstone)** at **Emergency Communications for British Columbia Incorporated**  
 _2019 - Present_
 
-* Helping to save lives and protect property.
+* Operationalizing business needs as data science problems.
+* Integrating and analyzing interdepartmental data.
+* Empowering human-resources department and operational support department with predictive analytics.
 
 **Kitchen Supervisor** at **Stella's Cafe & Bakery**  
 _2016 - 2018_
